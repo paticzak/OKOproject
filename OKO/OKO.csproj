@@ -218,6 +218,7 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\Travel.cshtml" />
     <Content Include="Views\Home\Propose.cshtml" />
+    <Content Include="Views\Shared\ProposeDestination.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
