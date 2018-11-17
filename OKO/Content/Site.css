@@ -122,3 +122,13 @@ input[type="checkbox"].input-validation-error {
   color: rgba(0,0,0, 0.3);
   background-color: transparent;
 }*/
+
+.contact-text {
+    font-size: 46px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.contact-button {
+    font-size: 30px;
+    margin-top: 50px;
+}
