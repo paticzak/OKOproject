@@ -786,6 +786,7 @@ pre code {
 .row {
   margin-right: -15px;
   margin-left: -15px;
+  margin-top: 160px;
 }
 
 .row:before,
@@ -958,6 +959,8 @@ pre code {
   }
   .col-sm-6 {
     width: 50%;
+    margin-top: 40px;
+    margin-bottom: 60px;
   }
   .col-sm-7 {
     width: 58.333333333333336%;
@@ -6813,4 +6816,8 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+}
+
+.travel-card {
+    color: red;
 }
