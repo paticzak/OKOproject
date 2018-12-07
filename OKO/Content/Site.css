@@ -98,10 +98,16 @@ input[type="checkbox"].input-validation-error {
 
     .my-button:active {
        color: rgba(0,0,0, 0.3);
+       text-decoration: none;
     }
 
     .my-button:focus {
         outline: none;
+        text-decoration: none;
+    }
+
+    .my-button a {
+        text-decoration: none;
     }
 
 .navbar-inverse .navbar-brand {
