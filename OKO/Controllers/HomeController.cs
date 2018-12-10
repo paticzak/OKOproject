@@ -11,6 +11,11 @@ namespace OKO.Controllers
         [AllowAnonymous]
         public ActionResult Index()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                return View("AfterLogin");
+            }
+
             return View();
         }
 
