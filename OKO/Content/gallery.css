@@ -1,0 +1,17 @@
+﻿.gallery {
+    margin: 20px 8%;
+    background-color: rgba(239, 224, 224, 0.76);
+    padding: 20px;
+}
+
+.gallery img {
+    max-width: 300px;
+    transition: 1s;
+    padding: 15px;
+}
+
+.gallery img:hover {
+    /*filter: grayscale(100%);*/
+    transform: scale(1.1);
+}
+

@@ -139,3 +139,7 @@ input[type="checkbox"].input-validation-error {
     margin-top: 50px;
 }
 
+.content > .gallery {
+    background-color: yellow;
+
+}
