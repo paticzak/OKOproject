@@ -180,6 +180,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\gallery.css" />
     <Content Include="Content\Images\home-page.jpg" />
+    <Content Include="Content\photo-gallery.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -233,6 +234,9 @@
     <Content Include="Views\OurTravels\Index.cshtml" />
     <Content Include="Views\Travelling\Index.cshtml" />
     <Content Include="Views\Travelling\Bieszczady.cshtml" />
+    <Content Include="Views\Travelling\Sudety.cshtml" />
+    <Content Include="Views\Travelling\Stolowe.cshtml" />
+    <Content Include="Views\Travelling\Mazury.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

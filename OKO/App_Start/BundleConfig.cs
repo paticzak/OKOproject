@@ -27,7 +27,7 @@ namespace OKO
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css",
-                      "~/Content/gallery.css",
+                      "~/Content/photo-gallery.css",
                       "~/Content/lightbox.min.css"));
         }
     }
