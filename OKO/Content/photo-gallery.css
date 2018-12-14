@@ -22,3 +22,14 @@
 .travel-text {
     padding: 12px;
 }
+
+.text-about {
+    background-color: rgba(239, 224, 224, 0.76);
+    margin: 40px auto -20px auto;
+    padding: 20px 60px 50px 60px; 
+
+}
+
+.text-about h4 {
+        line-height: 1.7;
+}
